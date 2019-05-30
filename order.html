@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Order Now</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+    <script src="js/main.js"></script>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="css/slideshow.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.1/handlebars.min.js"></script>
+    <link rel="shortcut icon" href="/img/cake.ico" type="image/x-icon">
+
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <a href="/"> <img class="logo" src="img/logo.png" alt=""></a>
+
+        <div id="sidebar">
+            <div class="toggle-btn" onclick="openMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul>
+                <li>Heart Cake</li>
+                <li><a href="/">Home</a></li>
+                <li><a href="about">About us</a></li>
+                <li><a href="gallery">Gallery</a></li>
+                <li><a href="order">Order now</a></li>
+                <li><a href="contact">Contacts</a></li>
+                <li><a href="faq">Q&A</a></li>
+            </ul>
+        </div>
+
+        <div class="shop-cart">
+            <img src="img/shoping.ico" alt="">
+            <p><span id="count-items"></span>items</p>
+            <div id="popup">
+                <button id="checkout">Order Now</button>
+                <button id="clear_cart">Clear</button>
+                <div id="cart_content"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div id="container">
+    </div>
+
+    <footer class="footer">
+        <div class="top">
+            <div class="social">
+                <a href="">
+                    <img class="social-image" src="img/icons/fb_icon-icons.com_65434.png" alt="">
+                </a>
+                <a href="">
+                    <img class="social-image" src="img/icons/gmail_icon-icons.com_65438.png" alt="">
+                </a>
+                <a href="">
+                    <img class="social-image" src="img/icons/instagram_icon-icons.com_65435.png" alt="">
+                </a>
+                <a href="">
+                    <img class="social-image" src="img/icons/skype_icon-icons.com_65445.png" alt="">
+                </a>
+                <a href="">
+                    <img class="social-image" src="img/icons/twitter_icon-icons.com_65436.png" alt=""></a>
+            </div>
+        </div>
+
+        <div class="bottom">
+            <p class="address">THE CAKE SHOP, 25 W 25TH AVE STE 6, SAN MATEO CA</p>
+            <p class="phone">(650) 393-4250</p>
+            <a class="email" href="">THECAKE.SHOP@YAHOO.COM</a>
+            <p class="copyright">Copyright | 2019 | Heart Cake</p>
+        </div>
+    </footer>
+
+    <script src="js/shop.js"></script>
+    <script src="js/popup.js"></script>
+</body>
+
+</html>

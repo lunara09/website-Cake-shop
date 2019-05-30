@@ -1,0 +1,14 @@
+form{
+    width: 30%;
+    /* Чтобы сделать посередине, нужно , чтобы сумма ширины, отсупа слева и справа давали 100% */
+    margin: 3% 35% 0 35%;
+}
+
+table tr td p{
+    font-size: 25px;
+}
+
+table tr td .submit{
+    width: 60px;
+    height: 30px;
+}

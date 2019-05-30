@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Eggless Choco Crunch",
+        "price": 20.00,
+        "description": "Eggless Choco Crunch Cake with a Crunchy Base",
+        "src": "cake1.jpg",
+        "id": 1
+    },
+    {
+        "name": "Eggless Strawberry Love",
+        "price": 32.30,
+        "description": "Eggless Strawberry Cake",
+        "src": "cake2.jpg",
+        "id": 2
+    },
+    {
+        "name": "Eggless Oreolicious",
+        "price": 22.00,
+        "description": "Eggless cake with cookies and cream",
+        "src": "cake3.jpg",
+        "id": 3
+    },
+    {
+        "name": "Italian Créme Cake",
+        "price": 21.1,
+        "description": "Classic twist on Italian Cream Cake",
+        "src": "cake4.jpg",
+        "id": 4
+    },
+    {
+        "name": "Carrot Cake",
+        "price": 70.32,
+        "description": "All of our carrots are hand peeled and grated to create this three layer spiced carrot cake",
+        "src": "cake5.jpg",
+        "id": 5
+    },
+    {
+        "name": "Black Forest Cake",
+        "price": 60.2,
+        "description": "Three layers of French chocolate cake filled with chocolate ganache, vanilla cream buttercream and cherry brandy jam.",
+        "src": "cake6.jpg",
+        "id": 6
+    },
+    {
+        "name": "Red Velvet Cake",
+        "price": 45.2,
+        "description": "Red Velvet cake",
+        "src": "cake7.jpg",
+        "id": 7
+    },
+    {
+        "name": "Snowflake Coconut Cake",
+        "price": 55.5,
+        "description": "Three layers of coconut cake soaked in a coconut and almond syrup.",
+        "src": "cake8.jpg",
+        "id": 8
+    }
+]

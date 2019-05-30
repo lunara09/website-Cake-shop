@@ -1,0 +1,36 @@
+<menus restaurant = "Oui!" logo="logo.png">
+<breakfast>
+<food>
+<item name = "Eggs & Bacon">
+<price>
+<regular>2.99<regular>
+<seniors>2.24<seniors>
+<price>
+<decs>
+2 Eggs any style, 3 strip of hand-cured bacon, 2 pieces of toast
+<decs>
+<item>
+<item name = "Pancake">
+<price>
+<regular>1.99<regular>
+<seniors>1.71<seniors>
+<price>
+<decs>
+ooooo Pancake oooooo
+<decs>
+<item>
+<item name = "Croissant">
+<price>
+<regular>5.00<regular>
+<seniors>4.75<seniors>
+<price>
+<decs>
+ooooo Croissant oooooo
+<decs>
+<item>
+<food>
+<beverages>
+
+<beverages>
+<breakfast>
+<menus>yessmile
